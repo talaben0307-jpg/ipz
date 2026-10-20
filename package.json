@@ -1,0 +1,12 @@
+{
+  "name": "ipz",
+  "version": "1.0.0",
+  "description": "ipz - app chia sẻ ảnh: tải ảnh lên và mọi người đều xem được",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
